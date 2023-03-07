@@ -1,0 +1,71 @@
+.list-group a:hover{
+    background-color: #6C757D;
+    border-radius: 20px;
+    text-decoration: none;
+}
+.navbar{
+    background-color: #e5e5e5;
+    box-shadow: 10, 10, 10, 20;
+    position: fixed;
+}
+.sidebar{
+    background-color: #e5e5e5;
+    min-height: 100vh;
+}
+.link{
+    background-color: #e5e5e5;
+}
+.SideBrand{
+    align-content: center;
+    
+}
+
+
+.label{
+    display: block;
+    font-size: larger;
+    color: white;
+    padding: 5px;
+    }
+    
+    .input{
+    font-size: larger;
+    padding: 5px;
+    margin: 2px;
+    
+    }
+    .btn{
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+    font-size: larger;
+    display: block;
+    padding: 5px;
+    margin: 10px auto;
+    }
+    
+    .messages{
+    display: flex;
+    justify-content: center;
+    }
+    
+    .error{
+    display: block;
+    background-color: red;
+    color: white;
+    width: fit-content;
+    height: 50px;
+    padding: 5px;
+    }
+    
+    .success{
+    display: block;
+    background-color: lightblue;
+    color: black;
+    width: fit-content;
+    height: 50px;
+    padding: 5px;
+    }
+    
+
+
